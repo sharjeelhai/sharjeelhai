@@ -26,7 +26,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharjeelhai&show_icons=true&theme=tokyonight" alt="Sharjeel's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeelhai&theme=tokyonight" alt="Sharjeel's streak stats" />
+  <img src="https://streak-stats.demolab.com?user=sharjeelhai&theme=tokyonight&hide_border=false" alt="Sharjeel's streak stats" />
+
 </p>
 
 ---
