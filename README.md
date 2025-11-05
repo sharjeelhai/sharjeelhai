@@ -1,1 +1,1 @@
-![Banner](https://raw.githubusercontent.com/sharjeelhai/sharjeelhai/main/images/github-banner.png)
+![Banner](https://raw.githubusercontent.com/sharjeelhai/sharjeelhai/main/github-banner.png)
