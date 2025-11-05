@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner](https://raw.githubusercontent.com/sharjeelhai/sharjeelhai/main/github%20banner.png)
+![Banner](https://raw.githubusercontent.com/sharjeelhai/sharjeelhai/main/banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Sharjeel Haider</h1>
 <h3 align="center">💻 Flutter Developer | 🌍 Map Integration | 📱 Mobile App Enthusiast</h3>
@@ -45,11 +46,9 @@
 
 ---
 
-### ✨ Animated Typing Section
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Designer;Map+Integration+Specialist;Always+Learning+New+Tech!" />
 </p>
-
 ---
 
 ⭐ **_Thanks for visiting my profile!_**
