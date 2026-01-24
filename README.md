@@ -1,4 +1,6 @@
 <!-- Banner -->
+<img width="1280" height="640" alt="Sharjel" src="https://github.com/user-attachments/assets/3240d145-7c82-44c1-aaec-20d3ff5e4746" />
+
 ![Banner](https://raw.githubusercontent.com/sharjeelhai/sharjeelhai/main/banner.png)
 
 
