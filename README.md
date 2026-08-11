@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Cybersecurity+Learner;Nmap+%26+Wireshark+Practitioner;Flutter+Developer+by+background;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;SOC+ Analyst;Nmap+%26+Wireshark+Practitioner;Flutter+Developer+by+background;Always+Learning+New+Tech!" />
 </p>
 
 ---
