@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="1280" height="640" alt="Sharjeel" src="https://github.com/user-attachments/assets/3240d145-7c82-44c1-aaec-20d3ff5e4746" />
+<img width="1280" height="640" alt="Building Engaging 3D" src="./Building_Engaging_3D.png" />
 
 <h1 align="center">Hi 👋, I'm Sharjeel Haider</h1>
 <h3 align="center">🔐 Aspiring SOC Analyst | 🛡️ Blue Team Enthusiast | 💻 Flutter Developer</h3>
@@ -66,7 +66,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Nmap+%26+Wireshark+Practitioner;Learning+SIEM+%2F+Splunk+%2F+Wazuh;Flutter+Developer+by+background;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Nmap+%26+Wireshark+Practitioner;Learn[...]" />
 </p>
 
 ---
