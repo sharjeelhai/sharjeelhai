@@ -2,7 +2,7 @@
 <img width="1280" height="640" alt="Sharjeel" src="https://github.com/user-attachments/assets/3240d145-7c82-44c1-aaec-20d3ff5e4746" />
 
 <h1 align="center">Hi 👋, I'm Sharjeel Haider</h1>
-<h3 align="center">🔐 Cybersecurity Learner | 🛡️ Blue Team & SOC Enthusiast | 💻 Flutter Developer</h3>
+<h3 align="center">🔐 SOC Analyst | 🛡️ Blue Team & SOC Enthusiast | 💻 Flutter Developer</h3>
 
 ---
 
